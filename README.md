@@ -48,9 +48,7 @@ If you use VaxScope, please cite:
 ```bibtex
 @inproceedings{ilgen-etal-2026-vaxscope,
     title = "{V}ax{S}cope: Document-Level Structured Evidence Extraction from Immunization Systematic Reviews",
-    author = "Ilgen, Bahar and
-      Awotoro, Ebenezer and
-      Hattab, Georges",
+    author = "Ilgen, Bahar and Awotoro, Ebenezer and Hattab, Georges",
     booktitle = "{B}io{NLP} 2026",
     year = "2026",
     pages = "853--863",
