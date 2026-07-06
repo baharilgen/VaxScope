@@ -2,6 +2,8 @@
 
 Accepted at **BioNLP 2026 (ACL 2026), San Diego, CA**.
 
+---
+
 ## Overview
 
 VaxScope is a benchmark dataset for document-level structured evidence extraction from immunization-related systematic reviews. It targets review-level attributes such as disease, population, outcome, study design, review type, number of included studies, number of participants, and date of last literature search.
