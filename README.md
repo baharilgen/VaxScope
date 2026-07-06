@@ -9,7 +9,7 @@ VaxScope is a benchmark dataset for document-level structured evidence extractio
 Unlike span-level extraction datasets, VaxScope focuses on normalized document-level labels supported by evidence snippets from systematic reviews.
 
 <p align="center">
-  <img src="figures/vaxscope_pipeline.jpg" width="800">
+  <img src="figures/vaxscope_pipeline.jpg" width="800" width="75%">
 </p>
 
 <p align="center">
