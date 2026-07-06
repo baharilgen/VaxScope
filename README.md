@@ -1,4 +1,4 @@
-**VaxScope: Document-Level Structured Evidence Extraction from Immunization Systematic Reviews**
+## **VaxScope: Document-Level Structured Evidence Extraction from Immunization Systematic Reviews**
 
 Accepted at **BioNLP 2026 (ACL 2026), San Diego, CA**.
 
