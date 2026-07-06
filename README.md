@@ -46,10 +46,15 @@ The best-performing model is PubMedBERT with evidence snippets, reaching an aver
 If you use VaxScope, please cite:
 
 ```bibtex
-@inproceedings{ilgen2026vaxscope,
-  title = {VaxScope: Document-Level Structured Evidence Extraction from Immunization Systematic Reviews},
-  author = {İlgen, Bahar and Awotoro, Ebenezer and Hattab, Georges},
-  booktitle = {Proceedings of the 25th Workshop on Biomedical Language Processing},
-  year = {2026},
-  pages = {853--863}
+@inproceedings{ilgen-etal-2026-vaxscope,
+    title = "{V}ax{S}cope: Document-Level Structured Evidence Extraction from Immunization Systematic Reviews",
+    author = "Ilgen, Bahar and
+      Awotoro, Ebenezer and
+      Hattab, Georges",
+    booktitle = "{B}io{NLP} 2026",
+    year = "2026",
+    pages = "853--863",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2026.bionlp-1.69",
+    url = "https://aclanthology.org/2026.bionlp-1.69/"
 }
